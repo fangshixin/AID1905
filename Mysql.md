@@ -5,7 +5,7 @@ MySQL数据库
 
 =======
 神经病，病精神，精神病
->>>>>>> Joy_dev
+
 | Tedu Python 教学部 |
 | --- |
 | Author：吕泽|
